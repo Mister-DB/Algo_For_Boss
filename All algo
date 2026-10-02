@@ -2,7 +2,7 @@ import random
 from dataclasses import dataclass, field
 from functools import wraps
 from typing import Iterator
-
+# Миха весь успех через запуск
 
 # ---------- Битовые флаги стен ----------
 N, E, S, W = 1, 2, 4, 8  # North, East, South, West
